@@ -1,3 +1,4 @@
+#Desafio proposto no ambiente de trabalho para teste de aprendizagem
 produtos = {
     1: {"nome": "Sanduíche", "preco": 5.00},
     2: {"nome": "Suco", "preco": 2.00},
