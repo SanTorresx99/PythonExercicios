@@ -1,3 +1,5 @@
+#Exercicio 05 Mundo 01 -> programa para: receber um número inteiro e mostrar seu sucessor e seu antecessor
+
 while True:
     try:
         n = int(input('Digite um número: '))
