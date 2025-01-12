@@ -1,0 +1,9 @@
+prim = int(input('Primeiro termo: '))
+r = int(input('Razão da PA: '))
+n = int(input('Nº de termos: '))
+termo = prim
+cont = 1
+while cont <=n:
+    print(' {},'.format(termo), end='')
+    termo += r
+    cont += 1
