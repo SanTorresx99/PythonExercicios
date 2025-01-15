@@ -1,6 +1,10 @@
 from ex115.lib.interface import cabecalho
 
 def arqexiste(nome):
+""" Verifica se um arquivo existe.
+Args: nome (str): O nome do arquivo a ser verificado.
+Returns: bool: Retorna True se o arquivo existir, caso contrário, retorna False.
+"""
     try:
         a = open(nome,'rt')
         a.close()
