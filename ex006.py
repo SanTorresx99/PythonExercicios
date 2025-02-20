@@ -1,3 +1,4 @@
+--Exercício par/ímpar
 while True:
     try:
         n = int(input('Digite um número: '))
