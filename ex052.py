@@ -1,3 +1,4 @@
+#Contagem de divisores
 n = int(input('Digite um nº: '))
 tot = 0
 for c in range(1,n+1,1):
