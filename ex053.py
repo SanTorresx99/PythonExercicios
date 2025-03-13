@@ -1,3 +1,4 @@
+#Confirma se a frase de entrada é um palindromo
 f = str(input('Digite a frase: ')).strip().lower()
 p = f.split()
 j = ''.join(p)
